@@ -72,7 +72,7 @@ server-->browser: main.css
 browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa.js
 
 
-server-->browser: main.js
+server-->browser: spa.js
 
 
 
